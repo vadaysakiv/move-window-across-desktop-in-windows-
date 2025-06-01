@@ -5,3 +5,6 @@ Clone the VD.ahk repository (it is an AutoHotkey library adding several script f
 Inside the cloned directory, create a new file (arbitrary name, ending with .ahk) and paste the content from @Lorenzo Morelli's answer into it.
 Double-click the script to run it. The shortcuts (Win+Ctrl+Shift+→: Move current window to the next desktop; Win+Ctrl+Shift+←: Move current window to the previous desktop) should now work.
 To make sure the script runs on every Windows startup, create a shortcut to it and put it into the folder for your Startup programs. Open that folder by typing shell:startup in the window that pops up after you hit Win + R.
+
+
+Source:https://superuser.com/questions/1685845/moving-current-window-to-another-desktop-in-windows-11-using-shortcut-keys/1850434#1850434
